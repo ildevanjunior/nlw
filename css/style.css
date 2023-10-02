@@ -5,7 +5,7 @@
 }
 
 :root {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 ::-webkit-scrollbar {
@@ -45,7 +45,7 @@ body {
 }
 
 nav {
-  padding: 64px;
+  padding: 32px;
   grid-area: timeLine;
 
   overflow-y: scroll;
@@ -94,6 +94,7 @@ nav {
 .memory p {
   font-size: 1.5rem;
   color: #bebebf;
+  text-align: justify;
 }
 
 aside {
